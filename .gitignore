@@ -1,0 +1,16 @@
+# PyCharm project files
+.idea/
+*.iml
+
+# Virtual environment
+.venv/
+
+# Compiled Python files
+*.pyc
+__pycache__/
+
+# Log files
+*.log
+
+# Other files
+keys.json
